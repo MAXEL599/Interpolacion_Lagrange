@@ -182,6 +182,7 @@ namespace Interpolación___Lagrange
             return resultado;
         }
 
+
         public IEnumerable<(double x, double y)> ObtenerPuntos()
         {
             return puntos;
